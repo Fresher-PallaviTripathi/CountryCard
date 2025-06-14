@@ -1,38 +1,12 @@
-# CountryCard
-The Country Card App is a responsive and interactive web application built with React.js that displays detailed information about countries using a card layout. It fetches real-time data from a REST API and renders each country's flag, name, region, capital, and population in a visually appealing format.
+# React + Vite
 
-Key Features:
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-📦 API Integration using REST Countries API
+Currently, two official plugins are available:
 
-🏳️ Country cards displaying:
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Country Name
+## Expanding the ESLint configuration
 
-Flag
-
-Region & Capital
-
-Population
-
-🔍 Search bar to filter countries by name (if implemented)
-
-🌐 Responsive design – works well on all screen sizes
-
-🖱️ Hover effects & animations using CSS
-
-⚛️ Built with React components and state management using useState and useEffect
-
-Technologies Used:
-
-React.js – for building the UI
-
-JavaScript (ES6+) – logic and dynamic rendering
-
-CSS3 – for styling and layout
-
-REST Countries API – as the data source
-
-(Optional) Axios – for cleaner API requests
-
-(Optional) React Router – for navigation to country detail pages
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

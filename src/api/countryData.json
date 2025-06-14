@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": "Null",
+    "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states.",
+    "flag": "\ud83c\udf0d",
+    "currency": "None",
+    "continent": "Global"
+  },
+  {
+    "id": 2,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29609623,
+    "interestingFact": "Nepal is home to Mount Everest, the tallest mountain in the world, standing at 8,848 meters.",
+    "flag": "\ud83c\uddf3\ud83c\uddf5",
+    "currency": "NPR",
+    "continent": "Asia"
+  },
+  {
+    "id": 3,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1407563842,
+    "interestingFact": "India is the world's most populous country as of 2023.",
+    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "currency": "INR",
+    "continent": "Asia"
+  },
+  {
+    "id": 4,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331893745,
+    "interestingFact": "The U.S. is the third most populous country and has the world's largest economy.",
+    "flag": "\ud83c\uddfa\ud83c\uddf8",
+    "currency": "USD",
+    "continent": "North America"
+  },
+  {
+    "id": 5,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1411750000,
+    "interestingFact": "China has the world's longest high-speed rail network.",
+    "flag": "\ud83c\udde8\ud83c\uddf3",
+    "currency": "CNY",
+    "continent": "Asia"
+  },
+  {
+    "id": 6,
+    "countryName": "Brazil",
+    "capital": "Bras\u00edlia",
+    "population": 216422446,
+    "interestingFact": "Brazil is the largest country in South America and home to the Amazon Rainforest.",
+    "flag": "\ud83c\udde7\ud83c\uddf7",
+    "currency": "BRL",
+    "continent": "South America"
+  },
+  {
+    "id": 7,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 144713314,
+    "interestingFact": "Russia is the largest country in the world by land area.",
+    "flag": "\ud83c\uddf7\ud83c\uddfa",
+    "currency": "RUB",
+    "continent": "Europe/Asia"
+  },
+  {
+    "id": 8,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26495400,
+    "interestingFact": "Australia is both a country and a continent.",
+    "flag": "\ud83c\udde6\ud83c\uddfa",
+    "currency": "AUD",
+    "continent": "Oceania"
+  },
+  {
+    "id": 9,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 124214766,
+    "interestingFact": "Tokyo is the most populous metropolitan area in the world.",
+    "flag": "\ud83c\uddef\ud83c\uddf5",
+    "currency": "JPY",
+    "continent": "Asia"
+  },
+  {
+    "id": 10,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83166711,
+    "interestingFact": "Germany is Europe\u2019s largest economy.",
+    "flag": "\ud83c\udde9\ud83c\uddea",
+    "currency": "EUR",
+    "continent": "Europe"
+  },
+  {
+    "id": 11,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67564251,
+    "interestingFact": "The Eiffel Tower in Paris is one of the most visited monuments in the world.",
+    "flag": "\ud83c\uddeb\ud83c\uddf7",
+    "currency": "EUR",
+    "continent": "Europe"
+  },
+  {
+    "id": 12,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 39373721,
+    "interestingFact": "Canada has the longest coastline of any country in the world.",
+    "flag": "\ud83c\udde8\ud83c\udde6",
+    "currency": "CAD",
+    "continent": "North America"
+  },
+  {
+    "id": 13,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": 68207116,
+    "interestingFact": "The UK is made up of England, Scotland, Wales, and Northern Ireland.",
+    "flag": "\ud83c\uddec\ud83c\udde7",
+    "currency": "GBP",
+    "continent": "Europe"
+  },
+  {
+    "id": 14,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 58870762,
+    "interestingFact": "Rome, the capital of Italy, was once the heart of the Roman Empire.",
+    "flag": "\ud83c\uddee\ud83c\uddf9",
+    "currency": "EUR",
+    "continent": "Europe"
+  },
+  {
+    "id": 15,
+    "countryName": "South Africa",
+    "capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+    "population": 60910468,
+    "interestingFact": "South Africa has three capital cities, each serving a different role.",
+    "flag": "\ud83c\uddff\ud83c\udde6",
+    "currency": "ZAR",
+    "continent": "Africa"
+  },
+  {
+    "id": 16,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 129875529,
+    "interestingFact": "Mexico City was built on the ruins of the ancient Aztec city of Tenochtitl\u00e1n.",
+    "flag": "\ud83c\uddf2\ud83c\uddfd",
+    "currency": "MXN",
+    "continent": "North America"
+  },
+  {
+    "id": 17,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45773884,
+    "interestingFact": "Argentina is the birthplace of tango music and dance.",
+    "flag": "\ud83c\udde6\ud83c\uddf7",
+    "currency": "ARS",
+    "continent": "South America"
+  },
+  {
+    "id": 18,
+    "countryName": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": 36030576,
+    "interestingFact": "Saudi Arabia is home to Mecca, the holiest city in Islam.",
+    "flag": "\ud83c\uddf8\ud83c\udde6",
+    "currency": "SAR",
+    "continent": "Asia"
+  },
+  {
+    "id": 19,
+    "countryName": "South Korea",
+    "capital": "Seoul",
+    "population": 51784059,
+    "interestingFact": "South Korea is one of the most technologically advanced countries in the world.",
+    "flag": "\ud83c\uddf0\ud83c\uddf7",
+    "currency": "KRW",
+    "continent": "Asia"
+  },
+  {
+    "id": 20,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 111367877,
+    "interestingFact": "Egypt is home to the ancient pyramids and the Sphinx.",
+    "flag": "\ud83c\uddea\ud83c\uddec",
+    "currency": "EGP",
+    "continent": "Africa"
+  },
+  {
+    "id": 21,
+    "countryName": "Indonesia",
+    "capital": "Jakarta",
+    "population": 277534122,
+    "interestingFact": "Indonesia is the largest island country in the world with over 17,000 islands.",
+    "flag": "\ud83c\uddee\ud83c\udde9",
+    "currency": "IDR",
+    "continent": "Asia"
+  },
+  {
+    "id": 22,
+    "countryName": "Pakistan",
+    "capital": "Islamabad",
+    "population": 241499431,
+    "interestingFact": "Pakistan is home to the world's second-highest mountain, K2.",
+    "flag": "\ud83c\uddf5\ud83c\uddf0",
+    "currency": "PKR",
+    "continent": "Asia"
+  },
+  {
+    "id": 23,
+    "countryName": "Bangladesh",
+    "capital": "Dhaka",
+    "population": 173972648,
+    "interestingFact": "Bangladesh has one of the highest population densities in the world.",
+    "flag": "\ud83c\udde7\ud83c\udde9",
+    "currency": "BDT",
+    "continent": "Asia"
+  },
+  {
+    "id": 24,
+    "countryName": "Turkey",
+    "capital": "Ankara",
+    "population": 86905608,
+    "interestingFact": "Istanbul, not Ankara, is the largest city in Turkey and spans two continents.",
+    "flag": "\ud83c\uddf9\ud83c\uddf7",
+    "currency": "TRY",
+    "continent": "Asia/Europe"
+  },
+  {
+    "id": 25,
+    "countryName": "Thailand",
+    "capital": "Bangkok",
+    "population": 71801279,
+    "interestingFact": "Thailand is the only Southeast Asian country that was never colonized by a European power.",
+    "flag": "\ud83c\uddf9\ud83c\udded",
+    "currency": "THB",
+    "continent": "Asia"
+  }
+]
